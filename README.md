@@ -1,2 +1,2 @@
-# precu
-este es un repositorio de prueba del precusrso de henrry
+
+prueba de como crear un repositorio de pruba y como cambiarlo a mi repositorio local
